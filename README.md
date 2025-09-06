@@ -11,3 +11,4 @@ Features
 * Resurrected customers
 * Retained/Returning customers
 * Monthly customer cohort and retention
+![DashBoard Preview](https://github.com/BeingCyborg/Customer-Cohort-and-Retention-Analysis/blob/main/Dashboard.png)
